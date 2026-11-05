@@ -1,0 +1,40 @@
+name: Bot de preço RTX 5060
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # a cada 20 minutos (o GitHub pode atrasar alguns minutos)
+  workflow_dispatch:          # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write             # para salvar o historico.json no repositório
+
+concurrency:
+  group: bot-preco
+  cancel-in-progress: false
+
+jobs:
+  checar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Checar preços
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot_preco.py --uma-vez
+
+      - name: Salvar histórico
+        if: always()
+        run: |
+          git config user.name "bot-preco"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add historico.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "histórico de preços" && git push || true
