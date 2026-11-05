@@ -1,12 +1,25 @@
 {
   "minimo_historico": 2519.99,
-  "alertados": {},
+  "alertados": {
+    "kabum-988706": 2519.99,
+    "kabum-912220": 2699.99,
+    "kabum-877566": 2699.99,
+    "kabum-777075": 2699.99
+  },
   "cupons_vistos": [
     "ZAFADINHO10"
   ],
   "leituras": [
     {
       "quando": "2026-11-05T11:39-03:00",
+      "preco": 2799.99,
+      "preco_com_cupom": 2519.99,
+      "cupom": "ZAFADINHO10",
+      "produto": "Placa de Video Palit GeForce RTX 5060 8GB INFINITY 2 OC GDDR7 128bits - NE75060V19P1-GB2063L",
+      "url": "https://www.kabum.com.br/produto/988706/placa-de-video-palit-geforce-rtx-5060-8gb-infinity-2-oc-gddr7-128bits-ne75060v19p1-gb2063l"
+    },
+    {
+      "quando": "2026-11-05T11:44-03:00",
       "preco": 2799.99,
       "preco_com_cupom": 2519.99,
       "cupom": "ZAFADINHO10",
