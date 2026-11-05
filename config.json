@@ -1,7 +1,7 @@
 {
   "busca": "rtx 5060 8gb",
   "preco_alvo": 2800.00,
-  "intervalo_minutos": 20,
+  "intervalo_minutos": 1,
 
   "filtro_nome_obrigatorio": ["RTX\\s*5060(?!\\s*-?\\s*Ti)", "8\\s*GB"],
   "filtro_nome_proibido": ["\\bTi\\b", "notebook", "computador", "pc gamer", "kit"],
