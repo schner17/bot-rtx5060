@@ -193,6 +193,14 @@
       "cupom": "ZAFADINHO10",
       "produto": "Placa de Video Palit GeForce RTX 5060 8GB INFINITY 2 OC GDDR7 128bits - NE75060V19P1-GB2063L",
       "url": "https://www.kabum.com.br/produto/988706/placa-de-video-palit-geforce-rtx-5060-8gb-infinity-2-oc-gddr7-128bits-ne75060v19p1-gb2063l"
+    },
+    {
+      "quando": "2026-11-10T15:59-03:00",
+      "preco": 2859.0,
+      "preco_com_cupom": null,
+      "cupom": null,
+      "produto": "Placa De Vídeo Gainward RTX 5060 Ghost 8GB Grdd7 128 Bits - Ne75060019p1-gb2063b",
+      "url": "https://www.kabum.com.br/produto/888073/placa-de-video-gainward-geforce-rtx-5060-8gb-ghost-gddr7-128bits-ne75060019p1-gb2063b"
     }
   ]
 }
