@@ -249,6 +249,14 @@
       "cupom": null,
       "produto": "Placa De Vídeo Inno3d Nvidia Geforce RTX 5060 Twin X2, 8GB, Gddr7, Dlss, Ray Tracing, N50602-08d7-195071n",
       "url": "https://www.kabum.com.br/produto/903752/gpu-inno3d-geforce-rtx-5060-twin-x2-8gb-128bits-gddr7-n50602-08d7-195071n"
+    },
+    {
+      "quando": "2026-11-12T14:02-03:00",
+      "preco": 3099.99,
+      "preco_com_cupom": 2789.99,
+      "cupom": "ZAFADINHO10",
+      "produto": "Placa de Vídeo Gigabyte RTX 5060 EAGLE MAX OC 8GB NVIDIA GeForce, 8GB GDDR7, 128bit, Triple Fan, Ray Tracing - GV-N5060E",
+      "url": "https://www.kabum.com.br/produto/912220/placa-de-video-gigabyte-rtx-5060-eagle-max-oc-8gb-nvidia-geforce-8gb-gddr7-128bit-triple-fan-ray-tracing-gv-n5060eaglemax-oc-8gd"
     }
   ]
 }
