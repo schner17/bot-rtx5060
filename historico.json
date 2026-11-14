@@ -8,7 +8,8 @@
   },
   "cupons_vistos": [
     "ZAFADINHO10",
-    "SEXTAFEIRA13"
+    "SEXTAFEIRA13",
+    "ZAFADINHO12"
   ],
   "leituras": [
     {
@@ -304,6 +305,14 @@
       "preco": 3099.99,
       "preco_com_cupom": null,
       "cupom": null,
+      "produto": "Placa de Vídeo MSI RTX 5060 8G VENTUS 2X OC Geforce NVIDIA, 8GB, GDDR7, 128 bits, 2535 MHz, DLSS 4, Ray Tracing - G5060-",
+      "url": "https://www.kabum.com.br/produto/877565/placa-de-video-msi-rtx-5060-8g-ventus-2x-oc-geforce-nvidia-8gb-gddr7-128-bits-2535-mhz-dlss-4-ray-tracing-g5060-8v2c"
+    },
+    {
+      "quando": "2026-11-14T08:02-03:00",
+      "preco": 3099.99,
+      "preco_com_cupom": 2727.99,
+      "cupom": "ZAFADINHO12",
       "produto": "Placa de Vídeo MSI RTX 5060 8G VENTUS 2X OC Geforce NVIDIA, 8GB, GDDR7, 128 bits, 2535 MHz, DLSS 4, Ray Tracing - G5060-",
       "url": "https://www.kabum.com.br/produto/877565/placa-de-video-msi-rtx-5060-8g-ventus-2x-oc-geforce-nvidia-8gb-gddr7-128-bits-2535-mhz-dlss-4-ray-tracing-g5060-8v2c"
     }
