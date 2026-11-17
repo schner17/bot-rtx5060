@@ -404,6 +404,14 @@
       "cupom": null,
       "produto": "Placa De Video Zotac RTX 5060 Twin Edge 8GB Oc Gddr7 128bits - Zt-b50600h-10m",
       "url": "https://www.kabum.com.br/produto/905255/placa-de-video-zotac-geforce-rtx-5060-twin-edge-oc-8gb-gddr7-128-bits-zt-b50600h-10m"
+    },
+    {
+      "quando": "2026-11-17T14:50-03:00",
+      "preco": 3099.99,
+      "preco_com_cupom": 2696.99,
+      "cupom": "ZAFADINHO13",
+      "produto": "Placa de Vídeo Zotac Gaming RTX 5060 Twin Edge OC NVIDIA GeForce, 8GB GDDR7, 128-bits, Dual Fan, Ray Tracing, DLSS 4 - Z",
+      "url": "https://www.kabum.com.br/produto/1078272/placa-de-video-nvidia-zotac-rtx-5060-8gb-twin-edge-oc-gddr7-128bits-zotac-zt-b50600h-10a"
     }
   ]
 }
