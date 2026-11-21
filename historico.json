@@ -485,6 +485,14 @@
       "cupom": "ZAFADINHO13",
       "produto": "Placa de Vídeo Zotac Gaming RTX 5060 Twin Edge OC NVIDIA GeForce, 8GB GDDR7, 128-bits, Dual Fan, Ray Tracing, DLSS 4 - Z",
       "url": "https://www.kabum.com.br/produto/1078272/placa-de-video-nvidia-zotac-rtx-5060-8gb-twin-edge-oc-gddr7-128bits-zotac-zt-b50600h-10a"
+    },
+    {
+      "quando": "2026-11-20T21:25-03:00",
+      "preco": 3299.99,
+      "preco_com_cupom": 2870.99,
+      "cupom": "ZAFADINHO13",
+      "produto": "Placa de Vídeo Gigabyte RTX 5060 EAGLE OC 8G NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N5060EAGLE OC-8G",
+      "url": "https://www.kabum.com.br/produto/777075/placa-de-video-gigabyte-rtx-5060-eagle-oc-8g-nvidia-geforce-8gb-gddr7-128bits-dlss-ray-tracing-gv-n5060eagle-oc-8gd"
     }
   ]
 }
