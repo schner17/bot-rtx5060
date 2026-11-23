@@ -557,6 +557,14 @@
       "cupom": "ZAFADINHO13",
       "produto": "Placa de Vídeo MSI RTX 5060 8G SHADOW 2X OC Geforce NVIDIA, 8GB GDDR7, 128 bits, 2535 MHz, DLSS 4, Ray Tracing - G5060-8",
       "url": "https://www.kabum.com.br/produto/877566/placa-de-video-msi-rtx-5060-8g-shadow-2x-oc-geforce-nvidia-8gb-gddr7-128-bits-2535-mhz-dlss-4-ray-tracing-g5060-8s2c"
+    },
+    {
+      "quando": "2026-11-23T08:26-03:00",
+      "preco": 3099.0,
+      "preco_com_cupom": null,
+      "cupom": null,
+      "produto": "Placa De Video Zotac RTX 5060 Twin Edge 8GB Oc Gddr7 128bits - Zt-b50600h-10m",
+      "url": "https://www.kabum.com.br/produto/905255/placa-de-video-zotac-geforce-rtx-5060-twin-edge-oc-8gb-gddr7-128-bits-zt-b50600h-10m"
     }
   ]
 }
