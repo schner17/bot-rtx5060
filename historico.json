@@ -621,6 +621,14 @@
       "cupom": "ZAFADINHO13",
       "produto": "Placa de Vídeo ASUS RTX 5060 Dual OC NVIDIA GeForce, 8GB GDDR7 - 90YV0PS0-M0NA00",
       "url": "https://www.kabum.com.br/produto/1052410/placa-de-video-rtx-5060-dual-oc-asus-8gb-gddr7-90yv0ps0-m0na00"
+    },
+    {
+      "quando": "2026-11-26T09:36-03:00",
+      "preco": 3099.99,
+      "preco_com_cupom": 2696.99,
+      "cupom": "ZAFADINHO13",
+      "produto": "Placa de Vídeo Zotac Gaming RTX 5060 Twin Edge OC NVIDIA GeForce, 8GB GDDR7, 128-bits, Dual Fan, Ray Tracing, DLSS 4 - Z",
+      "url": "https://www.kabum.com.br/produto/1078272/placa-de-video-nvidia-zotac-rtx-5060-8gb-twin-edge-oc-gddr7-128bits-zotac-zt-b50600h-10a"
     }
   ]
 }
